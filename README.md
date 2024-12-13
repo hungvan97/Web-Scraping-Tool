@@ -13,5 +13,5 @@ The file will contain following category: \
 ### Script Execute
 . Pull/Download the script \
 . Open terminal at the folder containing script \
-. Execute command: python scrapping.py (optional with argument -f, -u, -sl, -sc)
+. Execute command: python scrapping.py (optional with argument -f, -u, -sl, -sc) \
 Scrapped information will be founded at the same folder in the format to user's choice
